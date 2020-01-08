@@ -1,0 +1,57 @@
+ 
+
+h1 { text-align: center;
+    color: silver ;
+    font-family:'Audiowide', cursive;
+
+}
+
+h2 {
+    text-align:center;
+    color:silver;
+} 
+div {
+    background-color: black;
+}
+
+ h3 {
+     font-family:'Audiowide', cursive;
+     text-align: center;
+ 	   color:silver;
+     font-size:21px;
+ }
+ body {
+    background-color:black;
+}
+ p {
+     font-family: 'Merriweather Sans', sans-serif;
+     font-size:23px;
+     color:gold;
+     text-align:center;
+
+ } 
+  h4 {
+  	background color: black;
+  }
+ #nav{
+  display:flex;
+  font-family: 'Audiowide', cursive;
+  justify-content: space-between;
+  font-size: 23px;
+
+}
+h5 {
+  text-align:center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: red;
+  font-size: 23px;
+}
+h6 {
+  text-align:center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: red;
+  font-size: 23px;
+}
+div {
+  text-align:center;
+}
